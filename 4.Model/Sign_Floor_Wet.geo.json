@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.Sign_Floor_Wet",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bb_main",
+					"pivot": [-0.5, 7.62974, -0.18871],
+					"cubes": [
+						{"origin": [-6, -0.37026, 2.21694], "size": [11, 16, 0], "pivot": [-0.5, 7.62974, 2.21694], "rotation": [17.5, 0, 0], "uv": [24, 16]},
+						{"origin": [-6, -0.37026, -2.59435], "size": [11, 16, 0], "pivot": [-0.5, 7.62974, -2.59435], "rotation": [-17.5, 0, 0], "uv": [0, 17]}
+					]
+				},
+				{
+					"name": "bb_main2",
+					"parent": "bb_main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 0, -8], "size": [16, 0, 16], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

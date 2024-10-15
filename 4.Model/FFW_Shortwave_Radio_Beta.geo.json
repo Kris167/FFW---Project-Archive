@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.FFW_Shortwave_Radio_Beta",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [1.33951, 5.00761, 0.7461],
+					"cubes": [
+						{"origin": [1.22254, 4.80897, 2.05], "size": [1, 10, 0], "pivot": [1.72254, 9.80897, 2.05], "rotation": [0, 0, -35], "uv": [0, 21]},
+						{"origin": [-5.15, 4.85406, -0.31948], "size": [10.25, 3.25, 1], "pivot": [-0.025, 6.47906, 0.18052], "rotation": [12.5, 0, 0], "uv": [0, 17]},
+						{"origin": [-5, 0, -1], "size": [10, 6, 3], "uv": [0, 0]},
+						{"origin": [-5, 0.25, -1], "size": [10, 5, 3], "inflate": 0.2, "uv": [0, 9]},
+						{"origin": [4.5, 2, -0.5], "size": [1, 2, 2], "uv": [20, 19]}
+					]
+				}
+			]
+		}
+	]
+}

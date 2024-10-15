@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.FFW_Exit_Door_Beta",
+				"texture_width": 80,
+				"texture_height": 80,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [7.56814, 22, -2.33333],
+					"cubes": [
+						{"origin": [-8.01519, 0, -1], "size": [32, 48, 2], "uv": [0, 0]},
+						{"origin": [-5.01519, 19, -2], "size": [3, 6, 2], "uv": [0, 54]},
+						{"origin": [16.98481, 19, -2], "size": [3, 6, 2], "uv": [10, 54]},
+						{"origin": [-3.51519, 20, -5], "size": [0, 4, 3], "uv": [26, 51]},
+						{"origin": [18.48481, 20, -5], "size": [0, 4, 3], "uv": [20, 51]},
+						{"origin": [-6.01519, 19, -6], "size": [27, 2, 2], "uv": [0, 50]}
+					]
+				}
+			]
+		}
+	]
+}

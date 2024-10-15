@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.FFW_Climping_Pliers_Beta",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0.10543, 10.35386, 0],
+					"cubes": [
+						{"origin": [-2.63391, 0.03161, -1], "size": [2, 9, 2], "pivot": [-1.63391, 4.53161, 0], "rotation": [0, 0, 2.5], "uv": [8, 0]},
+						{"origin": [-3.43857, 8.98371, -1], "size": [3, 3, 2], "uv": [8, 16]},
+						{"origin": [-2.6, 9.98276, -0.5], "size": [2, 8, 1], "inflate": 0.1, "uv": [16, 0]},
+						{"origin": [-0.39496, 10.98276, -0.5], "size": [1, 7, 1], "inflate": 0.1, "uv": [18, 9]},
+						{"origin": [0, 9.98276, -0.5], "size": [3, 8, 1], "inflate": 0.25, "uv": [0, 11]},
+						{"origin": [0.80504, 8.98276, -1], "size": [3, 3, 2], "uv": [8, 11]},
+						{"origin": [1.00038, 0.03066, -1], "size": [2, 9, 2], "pivot": [2.00038, 4.53066, 0], "rotation": [0, 0, -2.5], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

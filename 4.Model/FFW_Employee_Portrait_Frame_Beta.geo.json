@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.FFW_Employee_Portrait_Frame_Beta",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [0, 6.83333, 6.08333],
+					"cubes": [
+						{"origin": [-6, 0, 5], "size": [12, 13, 2], "inflate": 0.15, "uv": [0, 0]},
+						{"origin": [-6, 12, 5], "size": [12, 1, 2], "uv": [22, 19]},
+						{"origin": [5, 2, 5], "size": [1, 10, 2], "uv": [0, 26]},
+						{"origin": [-6, 0, 5], "size": [12, 2, 2], "uv": [22, 15]},
+						{"origin": [-6, 2, 5], "size": [1, 10, 2], "uv": [22, 22]},
+						{"origin": [-5, 2, 6], "size": [10, 10, 1], "uv": [0, 15]}
+					]
+				}
+			]
+		}
+	]
+}
